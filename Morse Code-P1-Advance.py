@@ -1,4 +1,4 @@
-# Dictionary for Morse Code-Advance by me
+# Dictionary for Morse Code-Advance 
 
 import winsound
 import time
