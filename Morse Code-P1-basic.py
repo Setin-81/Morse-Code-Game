@@ -1,4 +1,4 @@
-# Dictionary for Morse Code-Basic by me
+# Dictionary for Morse Code-Basic  
 MORSE_CODE_DICT = {
     'A': '.-',     'B': '-...',   'C': '-.-.', 
     'D': '-..',    'E': '.',      'F': '..-.',
