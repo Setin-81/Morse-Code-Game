@@ -1,4 +1,4 @@
-# Dictionary for Morse Code-Intermediate
+# Dictionary for Morse Code-Intermediate by me
 MORSE_CODE_DICT = {
     'A': '.-',     'B': '-...',   'C': '-.-.', 
     'D': '-..',    'E': '.',      'F': '..-.',
